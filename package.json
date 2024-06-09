@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "lil-gui": "^0.19.2",
+    "postprocessing": "^6.35.5",
     "three": "^0.164.1"
   }
 }
